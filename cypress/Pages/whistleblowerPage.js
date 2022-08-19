@@ -77,7 +77,7 @@ cy.get('.denounce__types > :nth-child(2)').should ('be.visible')
 
 
 
-//Check button Gênero incorreto is visible
+//Check button Gênero incorreto is visible é nois
 checkButtonGeneroIsVisible(){
 cy.get('.denounce__types > :nth-child(3)').should ('be.visible')
 }
