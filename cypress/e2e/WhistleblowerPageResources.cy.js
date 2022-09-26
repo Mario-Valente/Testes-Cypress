@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 import whistleblowerPage from '../Pages/whistleblowerPage';
 import  WhistleblowerPageResources from '../Pages/whistleblowerPage'
-
+//DD(TESTE)
 describe("Whistleblower Page Test", () => {
     WhistleblowerPageResources.setDesktopViewport();
   
